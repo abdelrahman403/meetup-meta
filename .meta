@@ -1,3 +1,6 @@
 {
-  "projects": {}
+  "projects": {
+    "child-1": "git@github.com:abdelrahman403/meta-child-1.git",
+    "child-2": "git@github.com:abdelrahman403/meta-child-2.git"
+  }
 }
